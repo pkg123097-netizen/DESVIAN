@@ -747,8 +747,10 @@ namespace nodetool
       full_addrs.insert("88.99.195.15:34567"); // node3.monerodevs.org
       full_addrs.insert("158.69.60.225:34567");   // explore.wownero.com
       full_addrs.insert("195.94.188.201:34567"); // spippolatori.it
+      full_addrs.insert("desvian12.duckdns.org:34567"); // node pribadi
       full_addrs.insert("45.237.33.156:34567"); // wow.cypher.tec.br
     }
+
     return full_addrs;
   }
   //-----------------------------------------------------------------------------------
