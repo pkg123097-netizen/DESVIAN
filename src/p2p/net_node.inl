@@ -748,9 +748,11 @@ namespace nodetool
       full_addrs.insert("158.69.60.225:34567");   // explore.wownero.com
       full_addrs.insert("195.94.188.201:34567"); // spippolatori.it
       full_addrs.insert("desvian12.duckdns.org:34567"); // node pribadi
+      full_addrs.insert("172.26.0.10:34567"); // seed1 ZeroTier
+      full_addrs.insert("172.26.0.11:34567"); // seed2 ZeroTier
+      full_addrs.insert("172.26.0.12:34567"); // seed3 ZeroTier
       full_addrs.insert("45.237.33.156:34567"); // wow.cypher.tec.br
     }
-
     return full_addrs;
   }
   //-----------------------------------------------------------------------------------
