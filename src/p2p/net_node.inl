@@ -746,6 +746,8 @@ namespace nodetool
       full_addrs.insert("37.187.74.171:34567"); // node2.monerodevs.org
       full_addrs.insert("88.99.195.15:34567"); // node3.monerodevs.org
       full_addrs.insert("158.69.60.225:34567");   // explore.wownero.com
+      full_addrs.insert("127.0.0.1:34567");
+      full_addrs.insert("192.168.43.1:34567");
       full_addrs.insert("195.94.188.201:34567"); // spippolatori.it
       full_addrs.insert("desvian12.duckdns.org:34567"); // node pribadi
       full_addrs.insert("172.26.0.10:34567"); // seed1 ZeroTier
